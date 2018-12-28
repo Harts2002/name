@@ -6,4 +6,4 @@
 <br>
 [![](programming%20photos/Snake1.png)]
 <br>
-[i[](programming%20photos/Snake2.png)]
+[![](programming%20photos/Snake2.png)]
