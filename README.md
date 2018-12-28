@@ -5,4 +5,5 @@
 <P1> a classic snake game </P1>
 <br>
 [![](programming%20photos/Snake1.png)]
+<br>
 [i[](programming%20photos/Snake2.png)]
