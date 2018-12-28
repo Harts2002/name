@@ -4,6 +4,6 @@
 <h2> Snake Game </h2>
 <P1> a classic snake game. Go to this <a href = "https://github.com/Harts2002/snakegame"> link </a> to learn more</P1>
 <br>
-[![](programming%20photos/Snake2.png)]
-<br>
 [![](programming%20photos/Snake1.png)]
+<br>
+[![](programming%20photos/Snake2.png)]
