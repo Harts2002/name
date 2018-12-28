@@ -4,6 +4,6 @@
 <h2> Snake Game </h2>
 <P1> a classic snake game </P1>
 <br>
-[![](programming%20photos/Snake1.png)]
-<br>
 [![](programming%20photos/Snake2.png)]
+<br>
+[![](programming%20photos/Snake1.png)]
